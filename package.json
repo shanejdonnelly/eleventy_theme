@@ -1,0 +1,13 @@
+{
+  "name": "eleventy_theme",
+  "description": "A starter template for 11ty (eleventy)",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  },
+  "license": "MIT"
+}
